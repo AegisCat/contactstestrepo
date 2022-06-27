@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search">
+    <sys_sg_global_search action="INSERT_OR_UPDATE">
+        <default_empty_state display_value="Search Default Empty State">df1f61855bd8a010da168d8fa881c75d</default_empty_state>
+        <filtered_empty_state display_value="Search Default Empty State">df1f61855bd8a010da168d8fa881c75d</filtered_empty_state>
+        <interleave>true</interleave>
+        <name>Employee Search</name>
+        <placeholder>Search for an employee</placeholder>
+        <search_context_config display_value="Team Contact Search Configuration">8772f39620141110f91fa0c19d5bdda9</search_context_config>
+        <sys_class_name>sys_sg_global_search</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:36:05</sys_created_on>
+        <sys_id>c372f39631141110b81a3c3e868aa88e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Search</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_global_search_c372f39631141110b81a3c3e868aa88e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:36:05</sys_updated_on>
+        <vision_api_enabled>false</vision_api_enabled>
+    </sys_sg_global_search>
+</record_update>

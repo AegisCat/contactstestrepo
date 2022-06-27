@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="location" label="location" language="en" table="var__m_sys_search_genius_result_field_3d38144d0f812010bd7d8586b9767e88">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <help/>
+            <hint/>
+            <label>location</label>
+            <language>en</language>
+            <name>var__m_sys_search_genius_result_field_3d38144d0f812010bd7d8586b9767e88</name>
+            <plural>location</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-27 19:35:53</sys_created_on>
+            <sys_id>0f72f3964714111032d500c1b6b476a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>location</sys_name>
+            <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_search_genius_result_field_3d38144d0f812010bd7d8586b9767e88_location_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-27 19:35:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

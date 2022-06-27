@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Note">8772f396bd141110d7f51d11806fb491</button>
+        <item_parameter display_value="Date">cf72f396d3141110095799ba53874391</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:45</sys_created_on>
+        <sys_id>4772f396501411108dd8c7de18c01091</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cf72f396d3141110095799ba53874391</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4772f396501411108dd8c7de18c01091</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:45</sys_updated_on>
+        <ui_parameter display_value="Date">4b72f39613141110a27e24ddeebb7291</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

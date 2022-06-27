@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>- Global Search Configuration</description>
+        <name>global_search_configurations</name>
+        <page display_value="Contacts Test">4f72f3969914111060b2c63f690753ab</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0372f396321411101ffbd3eb21fa6165</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_ux_page_property_0372f396321411101ffbd3eb21fa6165</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:45</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_20923_contacts_0.4f72f3969914111060b2c63f690753ab.root.global_search_configurations</unique_name>
+        <value>{&#13;
+  "globalSearchContextConfigId": "8b72f39606141110e6e1e76bb93991a9",&#13;
+"evamDefinitionId": "0772f3967714111048186aacd08efc68"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0372f396321411101ffbd3eb21fa6165"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "evamDefinitionId" : "5949d0fd0f302010bd7d8586b9767ec6",
+  "searchContextConfigId" : "5f17987d0f302010bd7d8586b9767edb",
+  "searchTerm" : "Aileen",
+  "searchEvamDefinitionId" : "5949d0fd0f302010bd7d8586b9767ec6"
+}</macroponent_config>
+        <screen display_value="Search default">8372f3968b141110afe527295f90f372</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:36:08</sys_created_on>
+        <sys_id>c372f396511411109bb1f6a8bd982972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_c372f396511411109bb1f6a8bd982972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:36:08</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

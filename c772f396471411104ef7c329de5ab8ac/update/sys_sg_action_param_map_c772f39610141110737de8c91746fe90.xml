@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Reminder">8f72f3968d141110c72eadd893db5390</button>
+        <item_parameter display_value="Notification_subject">0772f396b4141110ababa23ee8fea690</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:55</sys_created_on>
+        <sys_id>c772f39610141110737de8c91746fe90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0772f396b4141110ababa23ee8fea690</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_c772f39610141110737de8c91746fe90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:55</sys_updated_on>
+        <ui_parameter display_value="Subject">c372f396f214111032213dad5b139790</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

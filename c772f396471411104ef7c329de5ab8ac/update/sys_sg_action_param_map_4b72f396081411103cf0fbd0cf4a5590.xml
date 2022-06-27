@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Note">cb72f3960f1411106381a1e4195eb990</button>
+        <item_parameter display_value="Reason">8372f396dc1411102a346cc0fb12ce90</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:50</sys_created_on>
+        <sys_id>4b72f396081411103cf0fbd0cf4a5590</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8372f396dc1411102a346cc0fb12ce90</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4b72f396081411103cf0fbd0cf4a5590</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:50</sys_updated_on>
+        <ui_parameter display_value="Reason for contact">4772f3962914111065fd188d41506490</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

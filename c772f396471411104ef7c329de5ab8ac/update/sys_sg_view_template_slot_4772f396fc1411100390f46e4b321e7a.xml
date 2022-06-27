@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>8bfa840f-6b82-7110-88df-6d12c713cfaf</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:49</sys_created_on>
+        <sys_id>4772f396fc1411100390f46e4b321e7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8bfa840f-6b82-7110-88df-6d12c713cfaf</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_4772f396fc1411100390f46e4b321e7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:49</sys_updated_on>
+        <type>text</type>
+        <view_template display_value="Team Contact Notes">4372f3961614111077157848c16f3d7d</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

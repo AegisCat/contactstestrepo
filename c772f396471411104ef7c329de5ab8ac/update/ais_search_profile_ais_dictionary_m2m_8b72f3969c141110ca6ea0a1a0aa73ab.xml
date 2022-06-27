@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_20923_contacts_0_team_contact_default_search_profile_default_spell_check_dictionary">cf72f3969a141110180559eac2e56cab</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="Team Contact Default Search Profile">0f72f396671411109a00a19f4bb2e2ab</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:54</sys_created_on>
+        <sys_id>8b72f3969c141110ca6ea0a1a0aa73ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_8b72f3969c141110ca6ea0a1a0aa73ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:54</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

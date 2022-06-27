@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>script</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My Teammates</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script><![CDATA[(function getQueryString(input) {
+	var myManagerGR = new GlideRecord("sys_user");
+	myManagerGR.addQuery("sys_id", gs.getUserID());
+	myManagerGR.query();
+    var myManager = '';
+	while (myManagerGR.next()){
+		myManager = myManagerGR.getValue('manager');
+		if (!myManager || myManager.length == 0) {
+			return null;
+		}
+	}
+	var queryString = 'sys_id!=' + gs.getUserID() + '^' + 'manager=' + myManager;
+	return queryString; 
+})(input);]]></query_condition_script>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:55</sys_created_on>
+        <sys_id>cb72f3967d14111040aae19377772187</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Teammates</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_data_item_cb72f3967d14111040aae19377772187</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:55</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb72f3967d14111040aae19377772187"/>
+</record_update>

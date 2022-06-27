@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_20923_contacts_0.DateTimeUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>DateTimeUtils</name>
+        <script><![CDATA[var DateTimeUtils = Class.create();
+DateTimeUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    userDateformat: function(date, userID) {
+        var dateFormat = '';
+        userID = userID || gs.getUserID();
+        var userObj = new GlideRecord('sys_user');
+        if (userObj.get(userID)) {
+            dateFormat = userObj.getValue('date_format');
+        }
+        if (date) {
+            var gdt = new GlideDateTime(date);
+            var gd = new GlideDate();
+            gd.setValue(gdt);
+            return gd.getByFormat(dateFormat);
+        }
+    },
+	checkPastDate: function(dateToCheck){
+		var dateRequired = this.getParameter('sysparm_required') || dateToCheck;
+		var currentDate = new GlideDateTime();
+		currentDate.setValue(currentDate.getDate()+" 00:00:00");
+		var dateReq = new GlideDateTime();
+		dateReq.setDisplayValue(dateRequired);
+		dateReq.setValue(dateReq.getDate()+" 00:00:00");
+		var diff =  Math.floor(GlideDateTime.subtract(currentDate, dateReq).getNumericValue()/1000);
+		if( diff >= 0){
+			return "false";
+		}else{
+			return "true";
+		}
+	},	
+    type: 'DateTimeUtils'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:36:11</sys_created_on>
+        <sys_id>4f72f3967a141110cf716d4fe0142495</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DateTimeUtils</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_script_include_4f72f3967a141110cf716d4fe0142495</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:36:11</sys_updated_on>
+    </sys_script_include>
+</record_update>

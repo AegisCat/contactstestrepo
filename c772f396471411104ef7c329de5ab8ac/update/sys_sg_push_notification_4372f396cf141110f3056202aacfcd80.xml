@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_push_notification">
+    <sys_sg_push_notification action="INSERT_OR_UPDATE">
+        <actionable>false</actionable>
+        <category/>
+        <name>Team Contacts Reminder</name>
+        <screen display_value="Saved Employees">0b72f396c8141110544df65389a9ff8b</screen>
+        <sys_class_name>sys_sg_push_notification</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:36:07</sys_created_on>
+        <sys_id>4372f396cf141110f3056202aacfcd80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Team Contacts Reminder</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_push_notification_4372f396cf141110f3056202aacfcd80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:36:07</sys_updated_on>
+    </sys_sg_push_notification>
+</record_update>

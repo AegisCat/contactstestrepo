@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My Favorites</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_20923_contacts_0_relationship_contact">favorite=true^nameDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="favorite" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:56</sys_created_on>
+        <sys_id>4372f396ff141110fee83783e7d72488</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Favorites</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_data_item_4372f396ff141110fee83783e7d72488</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:56</sys_updated_on>
+        <table>x_20923_contacts_0_relationship_contact</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4372f396ff141110fee83783e7d72488"/>
+</record_update>

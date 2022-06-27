@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_20923_contacts_0_relationship_notes" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contact</element>
+            <list_id display_value="x_20923_contacts_0_relationship_notes" element="NULL" name="x_20923_contacts_0_relationship_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4372f39628141110e927b45f73d83d70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-27 19:35:52</sys_created_on>
+            <sys_id>0372f39660141110d5c5712fc1dfda70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-27 19:35:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contact_date</element>
+            <list_id display_value="x_20923_contacts_0_relationship_notes" element="NULL" name="x_20923_contacts_0_relationship_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4372f39628141110e927b45f73d83d70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-27 19:35:52</sys_created_on>
+            <sys_id>4b72f396d714111023a8a3d963e43b70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-27 19:35:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contact_location</element>
+            <list_id display_value="x_20923_contacts_0_relationship_notes" element="NULL" name="x_20923_contacts_0_relationship_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4372f39628141110e927b45f73d83d70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-27 19:35:52</sys_created_on>
+            <sys_id>c772f3961d141110b7a3cf2ffdc8f270</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-27 19:35:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>relationship</element>
+            <list_id display_value="x_20923_contacts_0_relationship_notes" element="NULL" name="x_20923_contacts_0_relationship_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4372f39628141110e927b45f73d83d70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-27 19:35:52</sys_created_on>
+            <sys_id>8f72f396671411100daa32c8d7687d6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-27 19:35:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>note</element>
+            <list_id display_value="x_20923_contacts_0_relationship_notes" element="NULL" name="x_20923_contacts_0_relationship_notes" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4372f39628141110e927b45f73d83d70</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-27 19:35:52</sys_created_on>
+            <sys_id>4f72f396f8141110dd5994bb0a437e6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-27 19:35:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_20923_contacts_0_relationship_notes</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-27 19:35:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4372f39628141110e927b45f73d83d70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_20923_contacts_0_relationship_notes</sys_name>
+            <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+            <sys_update_name>sys_ui_list_x_20923_contacts_0_relationship_notes_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-27 19:35:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Team Contact Search">0772f3967714111048186aacd08efc68</dataset>
+        <order>100</order>
+        <predicate_bundle display_value="Team Contact Search Bundle">4b72f39634141110f217a5ad606f1a66</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:52</sys_created_on>
+        <sys_id>4772f39677141110fd01ccd1f11e7b66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_4772f39677141110fd01ccd1f11e7b66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:52</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

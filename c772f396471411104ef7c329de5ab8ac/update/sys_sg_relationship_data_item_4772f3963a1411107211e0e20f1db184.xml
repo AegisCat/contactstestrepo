@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_relationship_data_item">
+    <sys_sg_relationship_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Embedded List Relationship Notes RDI</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_20923_contacts_0_relationship_notes">^ORDERBYDESCsys_created_on<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <relationship>REL:b08f3ff80f016010e3a6120ba4767efc</relationship>
+        <sys_class_name>sys_sg_relationship_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-27 19:35:44</sys_created_on>
+        <sys_id>4772f3963a1411107211e0e20f1db184</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Embedded List Relationship Notes RDI</sys_name>
+        <sys_package display_value="Contacts Test" source="x_20923_contacts_0">c772f396471411104ef7c329de5ab8ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contacts Test">c772f396471411104ef7c329de5ab8ac</sys_scope>
+        <sys_update_name>sys_sg_relationship_data_item_4772f3963a1411107211e0e20f1db184</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-27 19:35:44</sys_updated_on>
+        <table>x_20923_contacts_0_relationship_notes</table>
+        <table_related_to>sys_user</table_related_to>
+    </sys_sg_relationship_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4772f3963a1411107211e0e20f1db184"/>
+</record_update>
